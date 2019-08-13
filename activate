@@ -1,0 +1,2 @@
+export FLASK_APP='training_service.py'
+source venv/bin/activate
